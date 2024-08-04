@@ -13,6 +13,7 @@ Enhanced Debugging: Benefit from built-in debugging tools that provide detailed 
 # Usage:
 
 **Server-Side: Manage block creation, physics simulations, and process client requests with ease. Consio simplifies complex server-side operations for efficient game development.**
+
 **Client-Side: Handle user inputs, synchronize keybinds, and interact with server-side components. Consio ensures a smooth and responsive experience for players.**
 
 *Consio is the ultimate solution for developers aiming to elevate their Roblox games with advanced building and control features. Its user-friendly design and powerful capabilities make it an essential tool for delivering engaging and interactive gameplay experiences.*
